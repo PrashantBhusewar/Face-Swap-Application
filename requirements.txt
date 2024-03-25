@@ -3,5 +3,5 @@ opencv-contrib-python
 numpy
 matplotlib
 flask
-
+from-root
 # conda install conda-forge::dlib ( Install directly )
